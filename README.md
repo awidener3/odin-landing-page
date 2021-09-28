@@ -1,0 +1,1 @@
+This is a project from the Odin Project's Foundation course, tasking me to create a landing page for a website using what I know of HTML and CSS.
